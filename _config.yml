@@ -1,0 +1,9 @@
+name: 遗世而独立
+markdown: redcarpet
+pygments: true
+timezone: Asia/Shanghai
+encoding: utf-8
+permalink: /:year/:month/:title.html
+
+host: 127.0.0.1
+port: 4001
