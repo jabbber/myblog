@@ -3,5 +3,6 @@ title: links
 layout: page
 ---
 
-[Plurk](http://plurk.com)  
+[冷眼旁观互联网](http://nonozone.net)
+[nonoDIY](http://nonodiy.com)
 
