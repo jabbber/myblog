@@ -3,7 +3,15 @@ title: about
 layout: page
 ---
 
-a
+Name:
+
+> Jabber Zhou
+
+Alias:
+
+> 周闹闹 周拨
+
+I think I'm
 
 > Minimalist | ArchLinuxer | Coder | BBer | ACGer
 
