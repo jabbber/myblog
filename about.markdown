@@ -5,11 +5,7 @@ layout: page
 
 a
 
-> Minimalist | Unixer | Coder | BBer | ACGer
-
-who involved in
-
-> [github](https://github.com/mayjabber)
+> Minimalist | ArchLinuxer | Coder | BBer | ACGer
 
 mail
 
@@ -17,6 +13,7 @@ mail
 
 or follow
 
-> [@mayjabber](https://twitter.com/#!/mayjabber)
+<a class='icon-twitter' href='https://twitter.com/#!/mayjabber'>@mayjabber</a>
+<a class='icon-github' href='https://github.com/mayjabber'>mayjabber</a>
 
 to reach me
