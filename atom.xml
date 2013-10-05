@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>{{ site.name }}</title>
- <link href="http://znn.im/atom.xml" rel="self"/>
- <link href="http://znn.im/"/>
+ <link href="{{ site.baseurl }}/atom.xml" rel="self"/>
+ <link href="{{ site.baseurl }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://lhzhang.com/</id>
+ <id>{{ site.baseurl }}</id>
  <author>
    <name>Jabber Zhou</name>
    <email>j@znn.im</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
-   <link href="http://znn.im{{ post.url }}"/>
+   <link href="{{ site.baseurl }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   {% if post.guid %}<id>{{ post.guid }}</id>{% else %}<id>http://znn.im{{ post.id }}</id>{% endif %}
+   {% if post.guid %}<id>{{ post.guid }}</id>{% else %}<id>{{ site.baseurl }}{{ post.id }}</id>{% endif %}
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
