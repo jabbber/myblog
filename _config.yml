@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 timezone: Asia/Shanghai
 encoding: utf-8
-baseurl: http://znn.im
+url: http://znn.im
 permalink: /:year/:month/:day/:title.html
 
 host: 127.0.0.1
