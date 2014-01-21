@@ -1,4 +1,5 @@
 name: 不器用
+longname: 道不可及，器不可信
 markdown: redcarpet
 pygments: true
 timezone: Asia/Shanghai
