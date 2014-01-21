@@ -13,7 +13,7 @@ Name:
 
 Alias:
 
-> 周闹闹 周拨
+> 周拨 周闹闹
 
 I think I'm
 
