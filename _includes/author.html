@@ -1,0 +1,14 @@
+{% for member in site.data.members %}
+    {% if author == member.name %}
+        {% if member.web %}
+        <a href='{{ member.web }}' target="view_tab">{{ member.nickname }}</a>
+        {% elsif member.twitter %}
+        <a href='http://twitter.com/{{ member.twitter }}' target="view_tab">{{ member.nickname }}</a>
+        {% else %}
+        {{ member.nickname }}
+        {% endif %}
+        {% capture author %}{% endcapture %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+{{ author }}
