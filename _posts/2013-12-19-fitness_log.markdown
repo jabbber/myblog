@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:2dc3ddf8-78ed-4795-be2a-36635ba936f6
 tags: 
   - fitness
-  - 健身
 ---
 
 举腿 level1 坐姿屈膝

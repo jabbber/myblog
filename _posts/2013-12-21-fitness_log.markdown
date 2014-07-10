@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:d2a66233-3d02-4e1f-a057-36250d11ff15
 tags: 
   - fitness
-  - 健身
 ---
 
 俯卧撑 level1 墙壁俯卧撑

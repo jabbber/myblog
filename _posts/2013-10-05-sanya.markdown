@@ -2,7 +2,8 @@
 title: 三亚
 layout: post
 guid: urn:uuid:be5f5a85-3c13-4e80-bd06-e49ec0b75312
-tags: 
+tags:
+  - photograph
   - travel
   - beach
 ---

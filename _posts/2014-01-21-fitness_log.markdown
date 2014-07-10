@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:0753d693-cf11-4930-9582-3f14f2c36aee
 tags: 
   - fitness
-  - 健身
 ---
 
 现在的安排是周一引体和举腿，周四俯卧撑和深蹲了。

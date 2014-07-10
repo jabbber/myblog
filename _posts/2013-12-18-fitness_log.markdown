@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:9cf49312-4c3e-49d5-a543-1026fdb89332
 tags: 
   - fitness
-  - 健身
 ---
 
 倒立撑 level1 靠墙顶立

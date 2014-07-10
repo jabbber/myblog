@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:373ef4f9-b65d-4882-b92d-94f41645de22
 tags: 
   - fitness
-  - 健身
 ---
 
 引体向上 level1 垂直引体

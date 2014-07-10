@@ -4,7 +4,6 @@ layout: post
 guid: urn:uuid:23b16ffa-6642-4db3-a2a0-cf522c82940a
 tags: 
   - fitness
-  - 健身
 ---
 
 深蹲 level1 肩倒立深蹲
