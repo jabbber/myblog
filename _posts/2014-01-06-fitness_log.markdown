@@ -1,5 +1,6 @@
 ---
 title: 健身日记
+author: jabber
 layout: post
 guid: urn:uuid:8a0038a5-318c-4543-9dfa-588a60cdb0d4
 tags: 
