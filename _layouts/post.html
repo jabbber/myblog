@@ -8,12 +8,12 @@ layout: default
   </section>
   <section class="meta">
   <span class="time">
-    <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+    <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
   </span>
   {% if page.tags %}
   <span class="tags">
     {% for tag in page.tags %}
-    <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+    <a href="/tags#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
     {% endfor %}
   </span>
   {% endif %}

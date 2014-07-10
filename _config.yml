@@ -1,11 +1,19 @@
-name: 不器用
-longname: 道不可及，器不可信
-markdown: redcarpet
-highlighter: true
+# Site settings
+title: 不器用
+owner: Jabber Zhou
+email: jabber@znn.im
+description: "道不可及 器不可信"
+baseurl: ""
+url: "http://znn.im"
+username: mayjabber
+disqus_shortname: jabberz
 timezone: Asia/Shanghai
-encoding: utf-8
-url: http://znn.im
-permalink: /:year/:month/:day/:title.html
 
-host: 127.0.0.1
+# Build settings
+encoding: utf-8
+highlighter: true
+markdown: kramdown
+permalink: pretty
+
+host: 0.0.0.0
 port: 4001
