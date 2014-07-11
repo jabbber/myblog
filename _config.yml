@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://znn.im"
 username: mayjabber
 disqus_shortname: jabberz
+photo: http://www.flickr.com/photos/finalangels
 timezone: Asia/Shanghai
 
 # Build settings

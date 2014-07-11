@@ -117,7 +117,6 @@ ul.listing {
       font-family: "Titillium Web", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
       ul.listing li.listing-seperator:before {
         font-family: "FontAwesome";
-        src: url("../fonts/fontawesome-webfont.woff");
         content: "\f103  ";
         color: #ccc; }
 
