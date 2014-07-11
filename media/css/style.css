@@ -1,6 +1,4 @@
 @charset "UTF-8";
-/*@import url(http://fonts.googleapis.com/css?family=Lekton);
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 /*------------------------------------
  * sext-vi
  *
@@ -119,7 +117,7 @@ ul.listing {
       font-family: "Titillium Web", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
       ul.listing li.listing-seperator:before {
         font-family: "FontAwesome";
-        src: url("../font/fontawesome-webfont.woff");
+        src: url("../fonts/fontawesome-webfont.woff");
         content: "\f103  ";
         color: #ccc; }
 
