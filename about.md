@@ -5,7 +5,7 @@ permalink: /about/
 sitemap:
     priority: 0.7
     changefreq: monthly
-    lastmod: 2014-07-10T09:45:30+08:00
+    lastmod: 2014-08-08T16:07:30+08:00
 ---
 Name:
 
@@ -18,4 +18,6 @@ Alias:
 I think I 'm
 
 > Minimalist \| Archlinux fan \| Coder \| ACGer
+
+[维基百科用户页](https://zh.wikipedia.org/wiki/User:Mayjabber)
 
