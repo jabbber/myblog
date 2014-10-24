@@ -2,7 +2,9 @@
 title: 近况
 author: jabber
 layout: post
-guid: urn:uuid: 07334800-6569-4237-9548-c9576953aaf6
+guid: urn:uuid: 8d7e2871-a369-46bc-b97a-7fbba35a7dd5
+tag:
+
 ---
 
 健身进展缓慢:: 
