@@ -9,6 +9,7 @@ username: mayjabber
 disqus_shortname: jabberz
 photo: http://www.flickr.com/photos/finalangels
 timezone: Asia/Shanghai
+indexpost: 2
 
 # Build settings
 encoding: utf-8
