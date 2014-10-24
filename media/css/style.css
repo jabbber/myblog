@@ -104,7 +104,7 @@ header {
 
 ul.listing {
   margin-top: 1em; }
-  ul.listing li {
+  ul.listing li.listing-seperator {
     list-style-type: none;
     padding: 0; }
     ul.listing li.listing-item a, ul.listing li.listing-item header #header h1 a, header #header h1 ul.listing li.listing-item a {
