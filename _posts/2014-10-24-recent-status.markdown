@@ -3,7 +3,6 @@ title: 近况
 author: jabber
 layout: post
 guid: urn:uuid: 07334800-6569-4237-9548-c9576953aaf6
-
 ---
 
 健身进展缓慢:: 
